@@ -1,0 +1,27 @@
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.exe.config
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.exe
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.pdb
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.csprojResolveAssemblyReference.cache
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.Form1.resources
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.Properties.Resources.resources
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.csproj.GenerateResource.Cache
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.exe
+C:\Users\hca\Downloads\Graf COm\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.pdb
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.exe.config
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.exe
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.pdb
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.exe
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.pdb
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.csprojResolveAssemblyReference.cache
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.Form1.resources
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.Properties.Resources.resources
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\ProyectoTrololo1\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.csproj.GenerateResource.Cache
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.exe.config
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.exe
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.pdb
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.exe
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\bin\Debug\ProyectoTrololo1.pdb
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.csprojResolveAssemblyReference.cache
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.Form1.resources
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.Properties.Resources.resources
+C:\Users\Fer Laredo\Downloads\ITAM ongoing\Graficas\GC 1\Fractal\ProyectoTrololo1\obj\Debug\ProyectoTrololo1.csproj.GenerateResource.Cache
